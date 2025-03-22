@@ -15,5 +15,5 @@ Una vez el codigo es ingresado en el editor de codigo fuente, abrir la terminal 
 
 ## Datos del Autor
 Christian Daniel Barrera Fuentes
-Christian.barrear@galileo.edu
+Christian.barrera@galileo.edu
 Carnet: 25004143
